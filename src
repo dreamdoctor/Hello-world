@@ -1,0 +1,11 @@
+include "stdio.h"
+char* main(int argc,char **argv)
+{
+  char *path;
+   path=open(SYSPATH);
+   if(null==path)
+       return null;
+   else
+    ..
+       
+}
